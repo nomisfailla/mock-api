@@ -1,6 +1,12 @@
 {
     "exports": [
-        "users",
-        "posts"
+        {
+            "file": "users.json",
+            "path": "/user"
+        },
+        {
+            "file": "posts.json",
+            "path": "/post"
+        }
     ]
 }
