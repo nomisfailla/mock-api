@@ -1,0 +1,10 @@
+{
+    "users": {
+        "count": 6,
+        "model": {
+            "id": "unique_id",
+            "username": "username",
+            "email": "email"
+        }
+    }
+}
