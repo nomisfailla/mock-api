@@ -1,0 +1,10 @@
+{
+    "posts": {
+        "count": 12,
+        "model": {
+            "id": "unique_id",
+            "poster": "@user/id",
+            "content": "lorem"
+        }
+    }
+}
